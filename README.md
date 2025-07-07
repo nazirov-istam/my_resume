@@ -1,2 +1,24 @@
-# my_resume
-In this project, I build my resume by using knowledge of HTML and CSS which I started to learn. Even though it is simple, I can easily use tags and other special functions in this project.
+📄 Personal Resume Website — HTML & CSS
+This is a simple portfolio-style resume website built using only HTML and a bit of CSS. It showcases my background as a Software Engineer, along with my:
+🧑‍💻 Work Experience
+🎓 Education
+🛠 Technical Skills
+🌍 Language Proficiency
+🔗 Contact and Social Links (GitHub, LinkedIn, Leetcode, GitLab)
+
+✅ Features
+Clean, responsive layout using Flexbox
+Proper use of semantic HTML elements (e.g., <header>, <main>, <ul>, <li>)
+Email and social profile links
+Easy to modify and deploy as a personal webpage
+
+🔧 Technologies Used
+HTML5
+CSS3 (external stylesheet)
+Basic JavaScript (alert on page load)
+
+💡 Purpose
+This project was created as a pet project to:
+Practice writing semantic HTML
+Design and structure a one-page professional resume site
+Showcase my experience in backend development.
