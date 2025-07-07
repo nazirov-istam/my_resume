@@ -1,0 +1,35 @@
+#profile-photo {
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+      }
+
+      header {
+        text-align: center;
+      }
+
+      .head {
+        margin-bottom: 0%;
+      }
+
+      .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      padding-top: 0%;
+      box-sizing: border-box;
+      font-family: sans-serif;
+    }
+
+    .loc {
+      margin-top:4px;
+    }
+
+    .text {
+      margin-top: -10px;
+    }
+
+    .text_1 {
+      margin-top: 2px;
+    }
